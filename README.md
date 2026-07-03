@@ -1,3 +1,10 @@
+SYSTEM GATEWAY: NAVIGATION
+​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
+​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
+​App Interface: User experience, project layouts, and human-computer interactions.
+​Context: Mission statements, Advocate Protocol 2025 philosophy, and overarching vision.
+​Are you lost? return to the main hub....https://github.com/Crystal-Bell..
+
 ​DESIGN SPECIFICATION: MULTI-LAYER SLIDE-INTERFACE: This is a prototype interface component that needs to be tested for functionality, fitting perfectly into Dev Labs.
 ​DESIGN SPECIFICATION: CÉNOTE CULINARY-SYNC & LESSON PROTOCOL: Because this involves the evolution of the system from "Service-Only" to an active learning node, this is an experimental development task....
 ...
