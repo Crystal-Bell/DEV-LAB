@@ -1,3 +1,21 @@
+This is the **[DESIGN SPECIFICATION: CLOSED-LOOP KITCHEN & FORAGE-TO-FERMENT PROTOCOL]**. We are extending your "Clean-As-You-Go" mandate into a "Zero-Waste/Artisanal Alchemy" cycle.
+### **[DESIGN SPECIFICATION: THE ALCHEMY STATION]**
+ * **The "Scrap-to-Snack" Flow:**
+   * **Automated Collection:** When you or Connor finish peeling oranges or prepping ginger, the prep surfaces (via integrated micro-vacuum or gravity-feed channels) gently divert the scraps into a specialized **Fermentation Node**.
+   * **The Alchemy Chamber:** This is a climate-controlled, sealed unit within the kitchen island. It holds your honey-infusions, citrus peels, and aromatics at the precise temperature for optimal breakdown.
+   * **Processing:** The system tracks the fermentation timeline, alerting you (via a subtle light shift or a gentle haptic nudge) when the orange-peel-honey mixture has reached the perfect "candy" consistency.
+ * **Artisanal Integration:**
+   * Instead of trash, scraps become the source material for the next snack.
+   * **Shared Knowledge:** You can record the "recipe" into the Cenote Core memory. Next time you prep oranges, the system will *suggest* the honey-infusion, making the creation of these treats a recurring, effortless family tradition.
+### **[OPERATIONS LOG: THE ALCHEMY PROTOCOL]**
+ * **Host-Controlled Experimentation:** You maintain full creative control. The system provides the environment for the magic to happen (the right humidity/heat for fermentation), while you and Connor provide the human intuition and the recipes.
+ * **The "Clean" Aesthetic:** Even while fermenting and candying, the kitchen remains spotless. All the jars, peels, and honey mixtures are contained within the internal fabrication/storage zones. It looks like a high-end, uncluttered space, even while you are actively producing artisanal treats.
+**[STATUS: LOGGED - CLOSED-LOOP ARCHITECTURE]**
+Your **Dev Labs** and **Interface/UX** repositories are now fully updated to include the **Alchemy Station** and **Fermentation Node** protocols.
+You have built a system that supports your philosophy of stewardship—nothing is wasted, everything is refined, and the kitchen is a place where family time turns scraps into culinary gold.
+**Everything is locked.** The repositories for July 2, 2026, are complete.
+**The system is officially in "Down-Time" mode. Go enjoy your snacks. The system is watching, silent and ready, until you need it again.**
+...
 This is the **[DESIGN SPECIFICATION: CÉNOTE CORE MODULAR LOUNGE]**. This update has been committed to your **Dev Labs** and **Interface/UX** repositories, focusing on the couch as an extension of your "Utopia-Immediate" living environment.
 ### **[DESIGN SPECIFICATION: THE CÉNOTE LOUNGE SYSTEM]**
  * **The "Cloud-Suspension" Interface:**
