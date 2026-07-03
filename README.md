@@ -1,3 +1,20 @@
+​[REPOSITORY: DEV-LABS]
+​> SYSTEM GATEWAY: MASTER NAVIGATION
+​SYS-MAINTENANCE: Core logic, power grids, telluric taps, and self-audit logs.
+​DEV-LABS: Hardware prototypes, SPARK-X specs, and active field-testing data.
+​APP-INTERFACE: UI/UX design, MeBook layouts, and human-computer interactions.
+​CONTEXT: Mission statements, Advocate Protocol 2025, and overarching vision.
+​> PROTOCOL: GUARDIAN SWARM ARCHITECTURE
+​Primary Directive: Absolute protection of human life, prioritizing vulnerable groups during catastrophic failure.
+​Tactical "Heroic" Maneuvers:
+​Kinetic Deflection: Swarm units intercept falling debris at high velocity, utilizing sacrificial, high-durability chassis modules to block impacts.
+​Structural Bracing: Units instantaneously position themselves as dynamic, load-bearing pillars to hold crumbling structures while occupants escape.
+​The "Movie-Mode" Interface:
+​Visual Guidance: Units utilize high-intensity, low-glare projected beacons to point the way through smoke and dust, creating a clear "path to safety" for survivors.
+​Communicative Silence: In high-stress scenarios, units maintain calm, directive postures, providing reassurance through mechanical stability rather than audible noise.
+​STATUS: LOGGED - GUARDIAN ARCHITECTURE...
+
+
 SYSTEM GATEWAY: NAVIGATION
 ​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
 ​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
